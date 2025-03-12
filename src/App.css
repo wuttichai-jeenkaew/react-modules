@@ -194,7 +194,6 @@ main {
   gap: 30px;
   background-color: #444;
   color: #fff;
-  text-align: center;
   padding: 100px;
 }
 
@@ -207,6 +206,11 @@ main {
   list-style-type: none;
   width: 70%;
 }
+
+.break-words {
+  word-break: break-word;
+}
+
 
 /* Footer Section */
 
